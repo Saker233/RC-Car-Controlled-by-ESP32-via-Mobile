@@ -16,8 +16,8 @@
 #define IN4_PIN 27  
 #define ENB_PIN 18  
 
-const char* ssid = "Ahmed Saker";     
-const char* password = "ahmedgamal"; 
+const char* ssid = "**********";     
+const char* password = "*********"; 
 
 AsyncWebServer server(80);
 WebSocketsServer webSocket = WebSocketsServer(81);  
